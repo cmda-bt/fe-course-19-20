@@ -16,7 +16,7 @@
 
 Assessment 1 tests your knowledge of in this course acquired matter.
 
-Your knowledge is validated by explaining the core JavaScript concepts; Scope, Context, Hoisting and Closure in the wiki of your repository. You explain these concepts in context of the client side progressively enhanced component you wrote during the course. You will be asked to explain these concepts in the oral test ([FE Assessment 2](https://github.com/cmda-bt/fe-course-19-20/blob/master/assessment-2.md)).
+Your knowledge is validated by explaining the core JavaScript concepts; Scope, Context, Hoisting and Closure in the wiki of the main repository. You explain these concepts in context of the code you wrote during the course, the progressively enhanced. You will be asked to explain these concepts in the oral test ([FE Assessment 2](https://github.com/cmda-bt/fe-course-19-20/blob/master/assessment-2.md)). Furthermore you explain how your component progressively enhances from HTML to CSS and finally to JavaScript.
 
 ## Goals
 
