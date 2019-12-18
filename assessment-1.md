@@ -8,19 +8,15 @@
 
 ## Synopsis
 
-* **Weight**: 40%
+* **Weight**: 50%
 * **Type**: Digital test
 * **Date**: In the last week of the course
-* **Time**: 1:40h (2:30 w/ extra time)
-* **Bring**: Laptop, charger, and identification
 
 ## Description
 
 Assessment 1 tests your knowledge of in this course acquired matter.
 
-This is a digital test that you take on your own computer.
-Bring a charger, identification, and water (no food).
-You are only allowed to use one browser tab, the one containing the moodle exam.
+In a wiki on the bootcamp repository on GitHub, you document the theory about JavaScript you acquired during the course. Finally your knowledge is validated by explaining the core JavaScript concepts; Scope, Context, Hoisting and Closure in the wiki. You explain these concepts in context of the client side progressively enhanced component you wrote during the course. You will be asked to explain these concepts in the oral test ([FE Assessment 2](https://github.com/cmda-bt/fe-course-19-20/blob/master/assessment-2.md)) as well.
 
 ## Goals
 

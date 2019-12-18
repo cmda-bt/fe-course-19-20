@@ -6,46 +6,31 @@
 
 #### Synopsis
 
-*   **Regular lesson**
-*   **Time**: 1:40h
+* **Regular lesson**
+* **Time**: 1:40h
 
 ## Table of Contents
+
 * [Theory](#theory)
 * [Practicum](#practicum)
 * [Homework](#homework)
-* [Hand In](#hand-in)
-
 
 ## Theory
 
 These chapters from [Eloquent JavaScript](https://eloquentjavascript.net/):
 
-* [Chapter 13: JavaScript And The Browser](https://eloquentjavascript.net/13_browser.html)
-* [Chapter 14: The Document Object Model](https://eloquentjavascript.net/14_dom.html)
-
-## Practicum
-In this lesson you continue building the Frontend code for the job story designed in the Project Tech course. The Frontend code  will be based on the principles of Progressive Enhancement.
-
-* Pitch code plan in small groups, client side enhancement for your job story
-* Look at some basic code principals
-* Let's code!
-
-## Homework
-
-### Exercises
-
-Finish the following exercise from the corresponding chapter:
-
-* [Elements by tag name](https://eloquentjavascript.net/14_dom.html#i_VSftnyRTsV)
-
-### Read
-Read these chapters from [Eloquent JavaScript](https://eloquentjavascript.net/):
-
 * [Chapter 15: Handling Events](https://eloquentjavascript.net/15_event.html)
 * [Chapter 18: HTTP and Forms](https://eloquentjavascript.net/18_http.html)
 
-## Hand in
+## Practicum
 
-Hand in your progess (chapter summaries and exercises) in your repository on GitHub under your username.
+In this lesson you continue building the Frontend code for the job story designed in the Project Tech course. The Frontend code will be based on the principles of Progressive Enhancement.
+
+* Show progress in small groups
+* Work on job story
+
+## Homework
+
+* Continue working on job story. Make sure to finish HTML & CSS. Start working on the client side JavaScript Enhancement
 
 [cover]: https://eloquentjavascript.net/img/chapter_picture_15.jpg
