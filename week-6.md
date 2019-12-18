@@ -26,6 +26,7 @@ In this lesson you continue building the Frontend code for the job story designe
 
 * Fork [Frontend repository](https://github.com/cmda-bt/fe-course-18-19), and commit work
 * Show progress individually
+* Document your findings in the wiki (progress)
 * Work on job story
 
 ## Homework
