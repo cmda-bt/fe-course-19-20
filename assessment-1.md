@@ -16,7 +16,7 @@
 
 Assessment 1 tests your knowledge of in this course acquired matter.
 
-In a wiki on the bootcamp repository on GitHub, you document the theory about JavaScript you acquired during the course. Finally your knowledge is validated by explaining the core JavaScript concepts; Scope, Context, Hoisting and Closure in the wiki. You explain these concepts in context of the client side progressively enhanced component you wrote during the course. You will be asked to explain these concepts in the oral test ([FE Assessment 2](https://github.com/cmda-bt/fe-course-19-20/blob/master/assessment-2.md)) as well.
+Your knowledge is validated by explaining the core JavaScript concepts; Scope, Context, Hoisting and Closure in the wiki of your repository. You explain these concepts in context of the client side progressively enhanced component you wrote during the course. You will be asked to explain these concepts in the oral test ([FE Assessment 2](https://github.com/cmda-bt/fe-course-19-20/blob/master/assessment-2.md)).
 
 ## Goals
 
