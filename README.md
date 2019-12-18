@@ -61,9 +61,8 @@ The two main goals in this course are that you:
 
 | Task                               |   Weight |
 | ---------------------------------- | -------: |
-| [Participation][]                  |      10% |
 | [Assessment 1※][a1] (digital test) |      50% |
-| [Assessment 2※][a2] (oral test)    |      40% |
+| [Assessment 2※][a2] (oral test)    |      50% |
 | **Total**                          | **100%** |
 
 > Participation, assessments 1 & assessment 2 don't compensate each other
