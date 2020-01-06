@@ -21,6 +21,7 @@ In this lesson you start building the Frontend code for the job story designed i
 
 * Desk research about Progressive Enhancement, share findings with the class (search for articles with code examples)
 * Make a breakdown (HTML, CSS and JavaScript) of your job story, share findings with the class
+* Estimate the workload in hours for each part of the component
 * Document your findings in the repo (breakdwon & resources)
 * Start coding!
 
