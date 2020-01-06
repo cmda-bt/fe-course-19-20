@@ -18,7 +18,6 @@
 
 In this lesson you continue building the Frontend code for the job story designed in the Project Tech course. The Frontend code will be based on the principles of Progressive Enhancement.
 
-* Fork [Frontend repository](https://github.com/cmda-bt/fe-course-18-19), and commit work
 * Show progress individually
 * Document your findings in the wiki (progress)
 * Work on job story
