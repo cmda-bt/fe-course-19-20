@@ -38,7 +38,7 @@ In this lesson you continue building the Frontend code for the job story designe
 
 Finish the following exercise from the corresponding chapter:
 
-* [Elements by tag name](https://eloquentjavascript.net/14_dom.html#i_VSftnyRTsV)
+* [Mouse trail](https://eloquentjavascript.net/15_event.html#i_NOgRH0Y9st)
 
 ### Read
 
