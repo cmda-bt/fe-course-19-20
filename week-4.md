@@ -33,5 +33,6 @@ In this lesson you continue building the Frontend code for the job story designe
 ## Homework
 
 * Continue working on job story. Make sure to finish HTML & CSS. Start working on the client side JavaScript Enhancement
+* Research Looping and Higher Order functions, document your findings in your Wiki and think about the implementation of these two concepts into your Feature
 
 [cover]: https://eloquentjavascript.net/img/chapter_picture_15.jpg
