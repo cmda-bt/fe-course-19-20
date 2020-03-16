@@ -24,6 +24,15 @@ Fork https://codepen.io/joostf/pen/gEyXGr, and place comments on correct line.
 
 In this lesson you continue building the Frontend code for the job story designed in the Project Tech course. The Frontend code will be based on the principles of Progressive Enhancement.
 
+We will also discuss the following topics (homework previous lecture)
+
+* Research the following JavaScript concepts and document these in your Wiki, it is important to encorporate these concepts in your JavaScript feature and/or explain how these concepts work:
+
+1. Prototypes in JavaScript
+2. Hoisting
+3. Higher Order Functions
+4. Closures
+
 * Fork [Frontend repository](https://github.com/cmda-bt/fe-course-18-19), and commit work
 * Show progress individually
 * Document your findings in the wiki (progress)
@@ -31,6 +40,6 @@ In this lesson you continue building the Frontend code for the job story designe
 
 ## Homework
 
-* Continue working on job story. Make sure to finish HTML & CSS. Start working on the client side JavaScript Enhancement
+* Continue working on job story. HTML & CSS should be done by now, start working on the client side JavaScript Enhancement
 
 [cover]: https://eloquentjavascript.net/img/chapter_picture_11.jpg
