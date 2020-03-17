@@ -33,7 +33,7 @@ We will also discuss the following topics (homework previous lecture)
 3. Higher Order Functions
 4. Closures
 
-* Fork [Frontend repository](https://github.com/cmda-bt/fe-course-18-19), and commit work
+* Fork [Frontend repository](https://github.com/cmda-bt/fe-course-19-20), and commit work
 * Show progress individually
 * Document your findings in the wiki (progress)
 * Work on job story
