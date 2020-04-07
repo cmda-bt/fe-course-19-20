@@ -22,4 +22,4 @@ Your knowledge is validated by explaining the core JavaScript concepts; Scope, C
 
 This assessment focusses on the first main goal of this course: **improve your knowledge about core JavaScript concepts**
 
-[Grading form](https://github.com/cmda-bt/fe-course-19-20/blob/master/forms/assessment-1-wiki.pdf)
+[Grading form](https://github.com/cmda-bt/fe-course-19-20/blob/master/forms/1920%20-%20FED2%20-%20Assessment%201%20-%20Wiki.pdf)
