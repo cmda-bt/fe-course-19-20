@@ -24,7 +24,7 @@
 The course **Frontend** is given at [**@CMDA**][cmda] in 2020 in the third en fourth quarter
 
 * **Course**: Frontend 2
-* **Coordinator**: Joost Faber
+* **Coordinator**: Joost Faber, Janno Kapritsias
 * **Lecturers**: Joost Faber, Janno Kapritsias & Casper Boutens
 * **SIS**: Frontend Development 2
 * **Credit**: 3 ECTS
