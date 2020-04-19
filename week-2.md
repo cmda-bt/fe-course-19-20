@@ -15,14 +15,15 @@
 
 ## Practicum
 
-In this lesson you start building the Frontend code for the job story designed in the Project Tech course. The Frontend code will be based on the principles of Progressive Enhancement.
+In this lesson you will refresh your knowledge of Front-end, find out how Front-end is scoped within Block-tech, do some exercises and get insight into the FED2 program. You will also create a folder structure for the job story that you designed in the Project Tech course - this will become your Front-end feature, which you will be graded on.
 
 ### In-class exercises
 
-* Desk research about Progressive Enhancement, share findings with the class (search for articles with code examples)
-* Make a breakdown (HTML, CSS and JavaScript) of your job story, share findings with the class
-* Estimate the workload in hours for each part of the component
-* Document your findings in the repo (breakdwon & resources)
+* Desk research about Progressive Enhancement (document these findings in github)
+* Make a breakdown (HTML, CSS and JavaScript) of your job story
+* Document your findings in the repo (Progressive Enhancement & breakdwon)
+* Write down all your resources in APA format - please use a apa generator 
+* Create Folder structure for your Front-end feature
 * Start coding!
 
 ## Homework
