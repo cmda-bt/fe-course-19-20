@@ -20,8 +20,7 @@ In this lesson you will refresh your knowledge of Front-end, find out how Front-
 ### In-class exercises
 
 * Desk research about Progressive Enhancement (document these findings in github)
-* Make a breakdown (HTML, CSS and JavaScript) of your job story
-* Document your findings in the repo (Progressive Enhancement & breakdwon)
+* Document your findings in the repo (Progressive Enhancement)
 * Write down all your resources in APA format - please use a apa generator 
 * Create Folder structure for your Front-end feature
 * Start coding!
