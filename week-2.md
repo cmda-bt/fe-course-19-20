@@ -17,6 +17,7 @@
 
 In this lesson you will refresh your knowledge of Front-end, find out how Front-end is scoped within Block-tech, do some exercises and get insight into the FED2 program. You will also create a folder structure for the job story that you designed in the Project Tech course - this will become your Front-end feature, which you will be graded on.
 
+
 ### In-class exercises
 
 * Desk research about Progressive Enhancement (document these findings in github)
