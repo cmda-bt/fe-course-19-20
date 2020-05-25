@@ -29,8 +29,7 @@ In this lesson you continue building the Frontend code for the job story designe
 
 1. Prototypes in JavaScript
 2. Hoisting
-3. Higher Order Functions
-4. Closures
+3. Closures
 
 
 [cover]: https://eloquentjavascript.net/img/chapter_picture_18.jpg
