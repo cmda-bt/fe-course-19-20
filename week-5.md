@@ -24,7 +24,7 @@ In this lesson you continue building the Frontend code for the job story designe
 
 ## Homework
 
-* Continue working on job story. Make sure to finish HTML & CSS. Start working on the client side JavaScript Enhancement
+* Your job story should be finished by now. Make sure to finish HTML & CSS and that you start working on the client side JavaScript Enhancement.
 * Research the following JavaScript concepts and document these in your Wiki, it is important to encorporate these concepts in your JavaScript feature and/or explain how these concepts work:
 
 1. Prototypes in JavaScript
