@@ -20,7 +20,7 @@ In this lesson you continue building the Frontend code for the job story designe
 
 * Show progress individually
 * Document your findings in the wiki (progress)
-* Work on job story
+* Work on front-end feature
 
 ## Homework
 
