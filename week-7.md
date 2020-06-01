@@ -15,7 +15,8 @@
 
 ## Practicum
 
-In this lesson you continue building the Frontend code for the job story designed in the Project Tech course. The Frontend code will be based on the principles of Progressive Enhancement.
+We discuss Asynchronous Programming and retrieving information from a Rest API.
+Fork https://codepen.io/joostf/pen/gEyXGr, and place comments on correct line.
 
 * Work on job story
 * Make sure you explain (in the wiki) how your component progressively enhances form HTML, to CSS and finally to JavaScript.
