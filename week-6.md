@@ -17,8 +17,7 @@
 
 ## Theory
 
-We discuss Asynchronous Programming and retrieving information from a Rest API.
-Fork https://codepen.io/joostf/pen/gEyXGr, and place comments on correct line.
+We discuss Prototypes, Closures and Hoisting. 
 
 ## Practicum
 
@@ -38,5 +37,6 @@ We will also discuss the following topics (homework previous lecture)
 ## Homework
 
 * Continue working on your Front-end feature. You should be working on your client side javascript functionalities.
+* Read Chapter 11 of Eloquent JavaScript - Asynchronous Programming
 
 [cover]: https://eloquentjavascript.net/img/chapter_picture_11.jpg
