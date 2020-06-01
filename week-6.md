@@ -30,15 +30,13 @@ We will also discuss the following topics (homework previous lecture)
 
 1. Prototypes in JavaScript
 2. Hoisting
-3. Higher Order Functions
-4. Closures
+3. Closures
 
-* Show progress individually
 * Document your findings in the wiki (progress)
-* Work on job story
+* Work on Front-end feature
 
 ## Homework
 
-* Continue working on job story. HTML & CSS should be done by now, start working on the client side JavaScript Enhancement
+* Continue working on your Front-end feature. You should be working on your client side javascript functionalities.
 
 [cover]: https://eloquentjavascript.net/img/chapter_picture_11.jpg
