@@ -15,10 +15,21 @@
 
 ## Practicum
 
-We discuss Asynchronous Programming and retrieving information from a Rest API.
-Fork https://codepen.io/joostf/pen/gEyXGr, and place comments on correct line.
+* Your Front-end feature should almost be complete and fully functional. From this week we start working in teams. 
+* We discuss Asynchronous Programming and retrieving information from a Rest API.
 
-* Work on job story
-* Make sure you explain (in the wiki) how your component progressively enhances form HTML, to CSS and finally to JavaScript.
+## Work as teams
+
+You have all been added into groups, it is important that you now start creating a fully functional dating app. Meaning; merging components into one code base - creating feature branches - and keeping 1 code style. Tips to do so successfully; 
+
+* Set weekly goals
+* Daily stand-up's (15 min calls - 5 min each explaining what your main goals are for this day)
+* Develop via feature branches
+* Meaningful commit messages to track bugs / errors / update your team
+* Pull / merge requests
+* Maintaing 1 code style across the project
+* Review each others code
+* One teammate creates a repo - other teammates fork this repo
+
 
 [cover]: https://eloquentjavascript.net/img/chapter_picture_21.jpg
