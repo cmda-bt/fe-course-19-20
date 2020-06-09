@@ -16,7 +16,8 @@
 ## Practicum
 
 * Your Front-end feature should almost be complete and fully functional. From this week we start working in teams. 
-* We discuss Asynchronous Programming and retrieving information from a Rest API.
+* We discuss Asynchronous Programming and three of the most used patterns to do so in JavaScript
+* A good resource to get a better understanding of how JavaScript works under the hood: [link]
 
 ## Work as teams
 
@@ -33,3 +34,4 @@ You have all been added into groups, it is important that you now start creating
 
 
 [cover]: https://eloquentjavascript.net/img/chapter_picture_21.jpg
+[link]: https://www.youtube.com/watch?v=8aGhZQkoFbQ
